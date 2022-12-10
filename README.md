@@ -1,3 +1,3 @@
 # aws
-amazon web services configuration files json and more
-# aws
+amazon web services configuration files json and lambda functions
+
